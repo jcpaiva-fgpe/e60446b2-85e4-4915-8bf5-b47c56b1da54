@@ -1,0 +1,1 @@
+{"id":"d922ca72-efd2-46b0-bc8c-88c3160745ca","name":"Give a point for solved exercises","criteria":{"conditions":[{"order":0,"left_entity":"EVENT","left_property":"status","comparing_function":"EQUALS","right_entity":"FIXED","right_property":"ACCEPTED"}],"junctors":["AND"]},"actions":[{"type":"GIVE","parameters":["a6ce835a-dc66-4d05-a93f-933f93bfa472"]}]}
