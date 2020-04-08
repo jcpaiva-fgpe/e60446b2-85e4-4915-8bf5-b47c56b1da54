@@ -1,0 +1,1 @@
+{"id":"14146e20-1d79-4930-9838-41813322f03e","name":"X exercises in a single day","criteria":{"conditions":[{"order":0,"left_entity":"FIXED","left_property":"today();today();today();today();today()","comparing_function":"IN","right_entity":"PLAYER","right_property":"solved.[*].date"}],"junctors":["AND"]},"actions":[]}
